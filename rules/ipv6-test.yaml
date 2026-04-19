@@ -1,11 +1,21 @@
 payload:
+  # test-ipv6.com 系列（含所有子域名）
   - "+.test-ipv6.com"
   - test-ipv6.com
-  - ipv6test.com
-  - ip6.me
-  - ipw.cn
-  - test6.com
-  - ipv6.icanhazip.com
+
+  # ipv6-test.com 系列
   - "+.ipv6-test.com"
   - ipv6-test.com
-  - ds.ipv6test.com
+
+  # 其他 IPv6 测试工具站
+  - testmyipv6.com
+  - test-ipv6.run
+  - ip6.me
+  - ipv6test.com
+  - "+.ipv6test.com"
+
+  # IP 查询类（IPv6 版本）
+  - ipv6.icanhazip.com
+  - ipw.cn
+  - "+.ipw.cn"
+  - api64.ipify.org
