@@ -1,7 +1,41 @@
 payload:
-  # test-ipv6.com 系列（含所有子域名）
+  # test-ipv6.com 主站及所有子域名
   - "+.test-ipv6.com"
   - test-ipv6.com
+
+  # test-ipv6.com 官方镜像站
+  - "+.coloradointerlink.net"
+  - "+.iu13.net"
+  - "+.noroutetohost.net"
+  - "+.cs.umd.edu"
+  - "+.test-ipv6.cl"
+  - test-ipv6.cl
+  - "+.test-ipv6.cz"
+  - test-ipv6.cz
+  - "+.triplebit.org"
+  - triplebit.org
+  - "+.tripplebit.us"
+  - tripplebit.us
+  - "+.ip6.ro"
+  - ip6.ro
+  - "+.fratec.net"
+  - "+.roedu.net"
+  - "+.epic.network"
+  - "+.testipv6.de"
+  - testipv6.de
+  - "+.amelek.net"
+  - "+.test-ipv6.hu"
+  - test-ipv6.hu
+  - "+.csclub.uwaterloo.ca"
+
+  # 连接日志里发现的镜像相关域名
+  - "+.antradar.com"
+  - "+.excathedra.co"
+  - "+.mudgee.host"
+  - "+.ayepv6.com"
+  - "+.tunnelbroker.net"
+  - "+.duiadns.net"
+  - "+.eurobilltracker.com"
 
   # ipv6-test.com 系列
   - "+.ipv6-test.com"
@@ -11,11 +45,11 @@ payload:
   - testmyipv6.com
   - test-ipv6.run
   - ip6.me
-  - ipv6test.com
   - "+.ipv6test.com"
+  - ipv6test.com
 
   # IP 查询类（IPv6 版本）
   - ipv6.icanhazip.com
-  - ipw.cn
   - "+.ipw.cn"
+  - ipw.cn
   - api64.ipify.org
