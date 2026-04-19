@@ -79,4 +79,7 @@ payload:
   - ipv6.icanhazip.com
   - "+.ipw.cn"
   - ipw.cn
-  - api64.ipify.org
+  - "+.ipify.org"
+  - api6.ipify.org
+  - "+.ip.sb"
+  - api-ipv6.ip.sb
