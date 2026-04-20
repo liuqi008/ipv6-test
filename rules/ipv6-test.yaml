@@ -108,4 +108,6 @@ payload:
   - "+.ipw.cn"
   - ipw.cn
   - "+.ipify.org"
+  - api6.ipify.org
   - "+.ip.sb"
+  - api-ipv6.ip.sb
