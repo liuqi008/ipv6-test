@@ -1,0 +1,85 @@
+payload:
+  # test-ipv6.com 主站及所有子域名
+  - "+.test-ipv6.com"
+  - test-ipv6.com
+
+  # test-ipv6.com 官方镜像站
+  # US - University of Maryland Department of Computer Science
+  - "+.cs.umd.edu"
+
+  # DE - COSIMO Vertriebs und Beratungs GmbH
+  - "+.testipv6.de"
+  - testipv6.de
+
+  # CL - NIC Chile
+  - "+.test-ipv6.cl"
+  - test-ipv6.cl
+
+  # CR - Sistemas Fratec S.A.
+  - "+.fratec.net"
+
+  # US - Colorado Interlink
+  - "+.coloradointerlink.net"
+
+  # US (MN) - tripplebit.us / triplebit.org
+  - "+.triplebit.org"
+  - triplebit.org
+  - "+.tripplebit.us"
+  - tripplebit.us
+
+  # HU - Polaris-N Systems
+  - "+.test-ipv6.hu"
+  - test-ipv6.hu
+
+  # CZ - nic.cz
+  - "+.test-ipv6.cz"
+  - test-ipv6.cz
+
+  # CN - yidazao 一大早（personal）
+  - "+.testipv6.cn"
+  - testipv6.cn
+
+  # GB - NoRouteToHost
+  - "+.noroutetohost.net"
+
+  # RO - CHROOT
+  - "+.ip6.ro"
+  - ip6.ro
+
+  # RO - RoEduNet
+  - "+.roedu.net"
+
+  # CA - University of Waterloo Computer Science Club
+  - "+.csclub.uwaterloo.ca"
+
+  # US - epic.network
+  - "+.epic.network"
+
+  # PL - Amelek.net
+  - "+.amelek.net"
+
+  # US (PA) - Lancaster-Lebanon IU13
+  - "+.iu13.net"
+
+  # HE.net IPv6 隧道服务（test-ipv6.com 测试时会连接）
+  - "+.tunnelbroker.net"
+
+  # ipv6-test.com 系列（独立测试站）
+  - "+.ipv6-test.com"
+  - ipv6-test.com
+
+  # 其他 IPv6 测试工具站
+  - testmyipv6.com
+  - test-ipv6.run
+  - ip6.me
+  - "+.ipv6test.com"
+  - ipv6test.com
+
+  # IP 查询类（IPv6 版本）
+  - ipv6.icanhazip.com
+  - "+.ipw.cn"
+  - ipw.cn
+  - "+.ipify.org"
+  - api6.ipify.org
+  - "+.ip.sb"
+  - api-ipv6.ip.sb
