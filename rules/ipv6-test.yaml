@@ -46,22 +46,28 @@ payload:
   - "+.iu13.net"
   # NL - Duiadns
   - "+.duiadns.net"
+  - duiadns.net
   # BR - NIC.br
   - "+.nic.br"
   - nic.br
   # UK - Allen Coates (hosted at A&A)
   - "+.cidercounty.org.uk"
+  - cidercounty.org.uk
   # CY - A.C. NetFlash Technologies Ltd
   - "+.netflash.com.cy"
+  - netflash.com.cy
   # NL - SJM Steffann Consultancy
   - "+.steffann.nl"
+  - steffann.nl
   # UK - Stephen Strowes (hosted at Vultr / Digital Ocean)
   - "+.ayepv6.com"
   - ayepv6.com
   # UK - Ex Cathedra Photography
   - "+.excathedra.co"
+  - excathedra.co
   # IT - Joram.IT
   - "+.joram.it"
+  - joram.it
   # UK - Jamie Scaife (JamieWeb)
   - "+.jamieweb.net"
   - jamieweb.net
